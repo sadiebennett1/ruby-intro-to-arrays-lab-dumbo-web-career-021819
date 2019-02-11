@@ -21,7 +21,7 @@ end
 
 def first_element_with_array_methods(arr)
   first = arr.shift
-  return first 
+  return first
 end
 
 def last_element_with_array_methods(arr)
@@ -31,4 +31,3 @@ end
 def length_of_array(arr)
   return arr.count
 end
-  
