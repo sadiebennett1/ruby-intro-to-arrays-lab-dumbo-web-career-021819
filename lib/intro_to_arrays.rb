@@ -1,3 +1,3 @@
-def @my_new_array
-  array = Array.new
+def my_new_array
+  return array = Array.new
 end
